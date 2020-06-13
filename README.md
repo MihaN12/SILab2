@@ -1,6 +1,5 @@
 # Втора лабораториска вежба по Софтверско инженерство
 # Михаела Николовска 183014
- Група на код: 3
-Control Flow Graph
-
-
+ Група на код: 3 <br>
+Control Flow Graph <br>
+![GitHub Logo](/SILAB2GRAF (1).png)
