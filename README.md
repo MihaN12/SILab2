@@ -3,5 +3,5 @@
  <h3>Група на код:</h3>
  <p>Ја добив групата на код 3.<p>
 <h3>Control Flow Graph<h3> <br>
-![SILAB2GRAF (1)](/graf.png)
+![SILAB2GRAF (1)](SILab2/graf.png)
 
