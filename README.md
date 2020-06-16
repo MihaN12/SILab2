@@ -3,7 +3,8 @@
  <h3>Група на код:</h3>
  <p>Ја добив групата на код 3.<p>
 <h3>Control Flow Graph<h3> <br>
- ![GitHub Logo](/graf.png)
+
+![GitHub Logo](/graf.png)
 
 ### Цикломатска комплексност
 Бројот на предикатни јазли = 10
